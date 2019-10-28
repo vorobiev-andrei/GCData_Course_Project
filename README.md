@@ -17,8 +17,8 @@ Training data:
 - y_train.txt: Traing Labels
 - subject_train: Subjects, who performed activities
 Testing data:
-- X_test.txt: Training Set
-- y_test.txt: Traing Labels
+- X_test.txt: Test Set
+- y_test.txt: Test Labels
 - subject_test: Subjects, who performed activities
 
 
